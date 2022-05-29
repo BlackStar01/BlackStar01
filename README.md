@@ -1,5 +1,10 @@
+
 <h1 align="center">Hi 👋, I'm Vital Warren</h1>
 <h3 align="center">A passionate frontend developer( I LOVE VUE.JS BY THE WAY ... ) from BENIN</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=blackstar01&label=Profile%20views&color=0e75b6&style=flat" alt="blackstar01" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackstar01" alt="blackstar01" /></a> </p>
 
 - 🔭 I’m currently working on [BENIN GOOD VIBES website](https://github.com/BlackStar01/bgv)
 
@@ -11,11 +16,11 @@
 
 - 📫 How to reach me **vitalwarren@petalmail.com**
 
-- ⚡ Fun fact **Music is so important for working ...**
+- ⚡ IMPORTANT THING : **Music is so important for working ...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vital warren agbanou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vital warren agbanou" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/vital warren agbanou](https://www.linkedin.com/in/vital-warren-agbanou-754a8618a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vital warren agbanou" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,3 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackstar01&show_icons=true&locale=en" alt="blackstar01" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackstar01&" alt="blackstar01" /></p>
