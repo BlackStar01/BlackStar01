@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackstar01" alt="blackstar01" /></a> </p>
 
-- 🔭 I’m currently working on [BENIN GOOD VIBES website](https://github.com/BlackStar01/bgv)
+- 🔭 I’m currently working on [RED BRICK ECOMMERCE APP](https://github.com/BlackStar01/red-brick)
 
 - 🌱 I’m currently learning **VUE3 and LARAVEL**
 
