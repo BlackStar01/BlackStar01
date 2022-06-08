@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackstar01&label=Profile%20views&color=0e75b6&style=flat" alt="blackstar01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackstar01" alt="blackstar01" /></a> </p>
 
 - 🔭 I’m currently working on [RED BRICK ECOMMERCE APP](https://github.com/BlackStar01/red-brick)
 
@@ -17,6 +16,8 @@
 - 📫 How to reach me **vitalwarren@petalmail.com**
 
 - ⚡ IMPORTANT THING : **Music is so important for working ...**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
