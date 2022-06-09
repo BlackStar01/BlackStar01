@@ -11,11 +11,9 @@
 
 - 👯 I’m often collaborate with [Aure-m](https://github.com/Aure-M)
 
-- 👨‍💻 All of my projects are available at my website [Available soon ...](Available soon ...)
+- 📫 How to reach me **vitalwarren@yahoo.com**
 
-- 📫 How to reach me **vitalwarren@petalmail.com**
-
-- ⚡ IMPORTANT THING : **Music is so important for working ...**
+- ⚡ VERY VERY IMPORTANT THING : **Music is so important**
 
 
 
