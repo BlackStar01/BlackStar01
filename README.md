@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [RED BRICK ECOMMERCE APP](https://github.com/BlackStar01/red-brick)
 
-- 🌱 I’m currently learning **VUE3 and LARAVEL**
+- 🌱 I’m currently learning **C#**
 
 - 👯 I’m often collaborate with [Aure-m](https://github.com/Aure-M)
 
