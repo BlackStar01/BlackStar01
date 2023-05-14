@@ -1,13 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Warren</h1>
-<h3 align="center">A passionate frontend developer( I LOVE VUE.JS BY THE WAY ... ) from BENIN</h3>
+<h3 align="center"> IT QUANT and passionate frontend developer( I LOVE VUE.JS BY THE WAY ... )</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackstar01&label=Profile%20views&color=0e75b6&style=flat" alt="blackstar01" /> </p>
 
-
-- 🔭 I’m currently working on [RED BRICK ECOMMERCE APP](https://github.com/BlackStar01/red-brick)
-
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C# and C++**
 
 - 👯 I’m often collaborate with [Aure-m](https://github.com/Aure-M)
 
