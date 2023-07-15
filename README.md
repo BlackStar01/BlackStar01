@@ -21,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackstar01&show_icons=true&locale=en&layout=compact" alt="blackstar01" margin="100"/></p>
 
-
+(https://github-readme-stats.vercel.app/api/top-langs/?username=blackstar01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
