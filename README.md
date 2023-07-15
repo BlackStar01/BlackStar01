@@ -19,9 +19,5 @@
 <a href="[https://linkedin.com/in/vital warren agbanou](https://www.linkedin.com/in/vital-warren-agbanou-754a8618a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vital warren agbanou" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackstar01&show_icons=true&locale=en&layout=compact" alt="blackstar01" margin="100"/></p>
-
-(https://github-readme-stats.vercel.app/api/top-langs/?username=blackstar01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackstar01&layout=compact&show_icons=true" alt="blackstar01" margin="100"/></p>
 
