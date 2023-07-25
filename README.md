@@ -1,16 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Warren</h1>
-<h3 align="center"> IT QUANT and passionate frontend developer( I LOVE VUE.JS BY THE WAY ... )</h3>
+<h3 align="center"> IT QUANT and passionate about frontend development (My heaven, VueJS)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackstar01&label=Profile%20views&color=0e75b6&style=flat" alt="blackstar01" /> </p>
 
-- 🌱 I’m currently learning **C# and C++**
+- 🌱 I’m currently learning **C++**
 
 - 👯 I’m often collaborate with [Aure-m](https://github.com/Aure-M)
 
 - 📫 How to reach me **vitalwarren@yahoo.com**
 
-- ⚡ VERY VERY IMPORTANT THING : **Music is so important**
+- ⚡ VERY VERY IMPORTANT THING : **Music is so important - Make TESTING**
 
 
 
