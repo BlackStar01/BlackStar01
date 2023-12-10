@@ -20,5 +20,6 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackstar01&layout=compact&show_icons=true" alt="blackstar01" margin="100"/></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackstar01&layout=compact)]
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackstar01&layout=compact" alt="blackstar01" margin="100"/></p>
+
 
