@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackstar01&label=Profile%20views&color=0e75b6&style=flat" alt="blackstar01" /> </p>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3fe464ea-cb99-46b0-a4e6-70829aef0e59" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 - 📫 How to reach me **vitalwarren@yahoo.com**
 
 - ⚡ VERY VERY IMPORTANT THING : **Music is so important - Make TESTING**
