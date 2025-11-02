@@ -6,8 +6,6 @@
 
 - 📫 How to reach me **vitalwarren@yahoo.com**
 
-- ⚡ VERY VERY IMPORTANT THING : **Music is so important - Make TESTING**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
