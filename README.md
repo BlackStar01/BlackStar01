@@ -24,37 +24,6 @@
 
 ---
 
-
-## 🛠️ Tech Stack & Skills
-
-### Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
 ### 💼 Professional Focus
 - **Quantitative Development**: C++ & C# for financial systems
 
@@ -67,28 +36,6 @@
 
 ### 🎓 Educational Platforms
 - **[HorizonWeb](https://github.com/horizon-efrei/HorizonWeb)** - Student life and mutual aid platform for Horizon EFREI ⭐ 15
-
-### 🧮 Algorithm & Data Structures
-- **[Ordonnancement_graphs](https://github.com/BlackStar01/Ordonnancement_grpahes)** - Graph scheduling algorithms
-
-### 👗 Fashion & Lifestyle
-- **[Fashion-app](https://github.com/BlackStar01/Fashion-app)** - Fashion application built with Python
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=blackstar01&theme=redical&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
-  
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-![Achievements](https://github-profile-trophy.vercel.app/?username=blackstar01&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 ---
 
@@ -106,14 +53,4 @@
   </a>
 </p>
 
----
-
-<div align="center">
-  
-### 💡 Fun Fact
-*"Code is like humor. When you have to explain it, it's bad."* - Cory House
-
-**Thanks for visiting! ⭐**
-
-</div>
 
