@@ -20,7 +20,6 @@
 - 💻 **Full-Stack Developer** passionate about frontend development
 - 🔧 **Work Tech Stack**: Primarily **C#** and **C++** for quantitative development
 - 📚 Constantly learning and exploring new technologies
-- 🎯 Building scalable and efficient applications
 
 ---
 
