@@ -1,15 +1,15 @@
 # Vital Warren AGBANOU
  
-**IT Quant Developer · C++ · C# · Web**  
+**IT Quant Developer - C++ & C# · Web Developer**  
 Natixis Corporate & Investment Banking · Île-de-France, France
  
 ---
  
-[<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackStar01&layout=donut&langs_count=6&hide_border=true&title_color=555&text_color=555" alt="Top Languages" />
-</p>](https://github-readme-stats-vercel-nine-sable.vercel.app/api/top-langs/?username=BlackStar01&layout=donut&langs_count=6&hide_border=true)
-
+<p align="center">
+  <img src="https://github-readme-stats-vercel-nine-sable.vercel.app/api/top-langs/?username=BlackStar01&layout=donut&langs_count=6&hide_border=true&title_color=555&text_color=555" alt="Top Languages" />
+</p>
 ---
+ 
 
  
 ### Projects
